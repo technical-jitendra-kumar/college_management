@@ -1,5 +1,5 @@
 <h1 align="center">
-    college MANAGEMENT SYSTEM
+    COLLEGE MANAGEMENT SYSTEM
 </h1>
 
 <h3 align="center">
@@ -37,7 +37,7 @@ The college Management System is a web-based application built using the MERN (M
 # Installation
 
 ```sh
-git clone https://github.com/Yogndrr/MERN-School-Management-System.git
+git clone https://github.com/technical-jitendra-kumar/college_management.git
 ```
 Open 2 terminals in separate windows/tabs.
 
